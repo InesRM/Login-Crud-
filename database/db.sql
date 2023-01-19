@@ -1,7 +1,7 @@
 CREATE DATABASE database_links;
 
 USE database_links;
---tABLA DE USUARIO
+--TABLA DE USUARIO
 CREATE TABLE users(
     id INT(11) NOT NULL,
     username VARCHAR(16) NOT NULL,
